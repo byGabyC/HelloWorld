@@ -5,6 +5,10 @@ public class HelloWorld {
 		//it's this simple
 		System.out.println("Hello World!");
 		
+		
+		//try it out in another language
+		System.out.println("Now in Spanish -- Hola Mundo!");
+		
 
 	}
 
